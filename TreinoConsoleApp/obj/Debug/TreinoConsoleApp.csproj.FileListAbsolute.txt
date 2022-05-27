@@ -1,0 +1,8 @@
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\TreinoConsoleApp\bin\Debug\TreinoConsoleApp.exe.config
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\TreinoConsoleApp\bin\Debug\TreinoConsoleApp.exe
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\TreinoConsoleApp\bin\Debug\TreinoConsoleApp.pdb
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\TreinoConsoleApp\obj\Debug\TreinoConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\TreinoConsoleApp\obj\Debug\TreinoConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\TreinoConsoleApp\obj\Debug\TreinoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\TreinoConsoleApp\obj\Debug\TreinoConsoleApp.exe
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\TreinoConsoleApp\obj\Debug\TreinoConsoleApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\ncdin\source\repos\SolucaoTreinoCasa\HelloWorld\obj\Debug\HelloWorld.pdb
